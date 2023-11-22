@@ -3,6 +3,7 @@
     "description": "A bot for Generating String Session of Telegram Account mostly for Userbots.",
     "repository": "https://github.com/AsmSafone/StringSessionGenerator",
     "keywords": [
+        "python3",
         "string",
         "session"
     ],
